@@ -1,0 +1,15 @@
+{
+  "id_petani": "1",
+  "id_koperasi": "2",
+  "name": "Brokoli",
+  "description": "Produk fresh dan menyenangkan",
+  "jumlah": "1",
+  "kategori": "sayur_mentah",
+  "harga": "500000",
+  "berat": "12",
+  "durasi_tahan": "20 hari",
+  "foto": "http://127.0.0.1:8000/storage/image/fLmFYZDKQh9LGonrdojZhzA7h7Ug9gdd7xdTNjVO.png",
+  "updated_at": "2023-10-01T13:46:56.000000Z",
+  "created_at": "2023-10-01T13:46:56.000000Z",
+  "id": 1
+}
